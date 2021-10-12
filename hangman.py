@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 12 19:35:51 2021
-
-@author: Asus
-"""
-
 from words import words
 from game_visuals import lives_visual_dict
 import random
